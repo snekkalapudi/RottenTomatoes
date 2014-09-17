@@ -8,6 +8,9 @@ Get the API key for Rotten Tomatoes and update it.
 Run the App.
 ```
 
+![Demo GIF](https://raw.githubusercontent.com/snekkalapudi/RottenTomatoes/master/Demo.gif)
+
+
 
 Time spent: 20+ hours
 
